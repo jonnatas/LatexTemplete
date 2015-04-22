@@ -1,0 +1,239 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.2 }
+
+\bibitem[ACM 2014]{acm}
+\abntrefinfo{ACM}{ACM}{2014}
+{ACM. \emph{ACM Digital Library}: Site. 2014.
+Dispon{\'\i}vel em: \url{http://dl.acm.org}. Acesso em: 12 nov. 2014.}
+
+\bibitem[Alecrim 2006]{mp3oquee}
+\abntrefinfo{Alecrim}{ALECRIM}{2006}
+{ALECRIM, E. Mp3.
+Info Wester, 2006.
+Dispon{\'\i}vel em: \url{http://www.infowester.com/histomptres.php}. Acesso em:
+  05 nov. 2014.}
+
+\bibitem[Assis 2010]{compressaoadaptativa}
+\abntrefinfo{Assis}{ASSIS}{2010}
+{ASSIS, A.~F.
+\emph{Proposta de Middleware para Compressão Adaptativa de Dados em Ambientes
+  Android}.
+Monografia (Especializa{\c c}ão) --- Universidade Federal de Outro Preto,
+  2010.}
+
+\bibitem[Audible 2014]{audible}
+\abntrefinfo{Audible}{AUDIBLE}{2014}
+{AUDIBLE. \emph{Home page}: Site. 2014.
+Dispon{\'\i}vel em: \url{http://www.audible.com}. Acesso em: 27 out. 2014.}
+
+\bibitem[Becker, F. 2014]{vbr}
+\abntrefinfo{Becker\ldots}{BECKER\ldots}{2014}
+{BECKER, F.: Entendendo o mp3 (cbr, abr, vbr). 2014.
+Dispon{\'\i}vel em:
+  \url{http://www.midideejay.com/2009/03/tutorial-mp3-cbr-abr-vbr.html}. Acesso
+  em: 15 nov. 2014.}
+
+\bibitem[Braga 2003]{compressaoaudio}
+\abntrefinfo{Braga}{BRAGA}{2003}
+{BRAGA, E. G.~C.
+\emph{Compressão de Áudio}.
+76~p. Monografia (Projeto Final de Gradua{\c c}ão) --- Departamento de
+  Engenharia Elétrica, Universidade de Brasília, 2003.}
+
+\bibitem[Disco e Meulen 2012]{moore}
+\abntrefinfo{Disco e Meulen}{DISCO; MEULEN}{2012}
+{DISCO, C.; MEULEN, B. v.~d. \emph{Getting New Technologies Together: Studies
+  in Making Sociotechnical Order}. Berlin, Boston: De Gruyter, 2012.}
+
+\bibitem[DW 2004]{dw}
+\abntrefinfo{DW}{DW}{2004}
+{DW. Audiolivro vira moda na alemanha.
+DW, Deutsche Welle, 2004.
+Dispon{\'\i}vel em: \url{http://dw.de/p/4wvJ}. Acesso em: 27 out. 2014.}
+
+\bibitem[ERROR 1999]{mpgedit}
+\abntrefinfo{ERROR}{ERROR}{1999}
+{ERROR. \emph{MPEG Audio Compression Basics}: Site. 1999.
+Dispon{\'\i}vel em:
+  \url{http://www.mpgedit.org/mpgedit/mpeg\_format/mpeghdr.htm}. Acesso em: 03
+  nov. 2014.}
+
+\bibitem[Fagundes 2014]{cloud}
+\abntrefinfo{Fagundes}{FAGUNDES}{2014}
+{FAGUNDES, E.~M. O desafio do consumo de energia dos data centers no brasil.
+2014.
+Dispon{\'\i}vel em:
+  \url{http://efagundes.com/itgov/o-desafio-do-consumo-de-energia-dos-data-centers-no-brasil}.
+  Acesso em: 29 set. 2014.}
+
+\bibitem[Falada 2004]{universidadefalada}
+\abntrefinfo{Falada}{FALADA}{2004}
+{FALADA, U. \emph{Home page}: Site. 2004.
+Dispon{\'\i}vel em: \url{http://www.universidadefalada.com.br}. Acesso em: 02
+  nov. 2014.}
+
+\bibitem[Farias 2012]{farias}
+\abntrefinfo{Farias}{FARIAS}{2012}
+{FARIAS, S.~C. O audiolivro e sua contribui{\c c}ão no processo de
+  dissemina{\c c}ão de informa{\c c}ões e na inclusão social.
+Revista Digital de Biblioteconomia e Ciência da Informa{\c c}ão, 2012.
+Dispon{\'\i}vel em:
+  \url{http://www.sbu.unicamp.br/seer/ojs/index.php/rbci/article/view/529}.}
+
+\bibitem[Forouzan 2006]{forouzan}
+\abntrefinfo{Forouzan}{FOROUZAN}{2006}
+{FOROUZAN, B.~A. \emph{Comunica{\c c}ão de Dados e Redes de Computadores}.
+  [S.l.]: Mcgraw Hill Brasil, 2006.}
+
+\bibitem[Google 2014]{googleacademico}
+\abntrefinfo{Google}{GOOGLE}{2014}
+{GOOGLE. \emph{Google Acadêmico}: Site. 2014.
+Dispon{\'\i}vel em: \url{http://scholar.google.com.br}. Acesso em: 15 nov.
+  2014.}
+
+\bibitem[Muratnkonar 2014]{muratnkonar}
+\abntrefinfo{Muratnkonar}{MURATNKONAR}{2014}
+{MURATNKONAR. \emph{Audio Interchange File Format}: Site. 2014.
+Dispon{\'\i}vel em: \url{http://www.muratnkonar.com/aiff/index.html}. Acesso
+  em: 03 nov. 2014.}
+
+\bibitem[Neto 2014]{publishnews}
+\abntrefinfo{Neto}{NETO}{2014}
+{NETO, L. Livros para ouvir.
+PublishNews, 2014.
+Dispon{\'\i}vel em:
+  \url{http://www.publishnews.com.br/telas/noticias/detalhes.aspx?id=79097}.
+  Acesso em: 11 nov. 2014.}
+
+\bibitem[Nikolajevic e Fettewis 2003]{mdct}
+\abntrefinfo{Nikolajevic e Fettewis}{NIKOLAJEVIC; FETTEWIS}{2003}
+{NIKOLAJEVIC, V.; FETTEWIS, G. Computation of forward and inverse mdct using
+  clenshaw's recurrence formula.
+IEEE Transactions on Signal Precessing, 2003.
+Dispon{\'\i}vel em: \url{http://www.infowester.com/histomptres.php}. Acesso em:
+  13 nov. 2014.}
+
+\bibitem[Palleta, Watanabe e Penilha 2008]{audiobookinovacao}
+\abntrefinfo{Palleta, Watanabe e Penilha}{PALLETA; WATANABE; PENILHA}{2008}
+{PALLETA, F. A.~C.; WATANABE, E. T.~Y.; PENILHA, D.~F. Audiolivro: inova{\c
+  c}ões tecnológicas, tendências e divulga{\c c}ão.
+2008.}
+
+\bibitem[Reis 2013]{herbert}
+\abntrefinfo{Reis}{REIS}{2013}
+{REIS, H.~C.
+\emph{Especifica{\c c}ão de um formato de arquivo open source para audiobooks
+  com suporte a marca{\c c}ões de conteúdo}.
+87~p. Monografia (Especializa{\c c}ão) --- Universidade de Brasília, 2013.}
+
+\bibitem[RFC\_3533 2003]{ogg}
+\abntrefinfo{RFC\_3533}{RFC\_3533}{2003}
+{RFC\_3533. \emph{The Ogg Encapsulation Format Version 0}: Documento técnico.
+  2003.
+Dispon{\'\i}vel em: \url{http://xiph.org/ogg/doc/rfc3533.txt}. Acesso em: 03
+  nov. 2014.}
+
+\bibitem[RHJ 2009]{rhj}
+\abntrefinfo{RHJ}{RHJ}{2009}
+{RHJ. \emph{Home page}: Site. 2009.
+Dispon{\'\i}vel em: \url{http://www.editorarhj.com.br}. Acesso em: 29 out.
+  2014.}
+
+\bibitem[Ribeiro e Torres 2009]{compressaomultimidia}
+\abntrefinfo{Ribeiro e Torres}{RIBEIRO; TORRES}{2009}
+{RIBEIRO, N.; TORRES, J. \emph{Tecnologias de Compressão Multimédia}. [S.l.]:
+  FCA, 2009.}
+
+\bibitem[Sayood 2012]{sayood}
+\abntrefinfo{Sayood}{SAYOOD}{2012}
+{SAYOOD, K. \emph{Introduction to data compression}. [S.l.]: Newnes, 2012.}
+
+\bibitem[Scielo 2014]{scielo}
+\abntrefinfo{Scielo}{SCIELO}{2014}
+{SCIELO. \emph{Scientific Electronic Library Online}: Site. 2014.
+Dispon{\'\i}vel em: \url{http://www.scielo.org/php/index.php}. Acesso em: 14
+  nov. 2014.}
+
+\bibitem[Serra 2002]{serraaudio}
+\abntrefinfo{Serra}{SERRA}{2002}
+{SERRA, F. \emph{Áudio Digital: A tecnologia aplicada à música e ao
+  tratamento de som}. [S.l.]: Editora Ciência Moderna Ltda, 2002.}
+
+\bibitem[Souza, Celva e Helvadjian 2006]{audiobooksuporte}
+\abntrefinfo{Souza, Celva e Helvadjian}{SOUZA; CELVA; HELVADJIAN}{2006}
+{SOUZA, M. S.~D.; CELVA, R.~A.; HELVADJIAN, V. Audiolivro: um suporte para a
+  educa{\c c}ão literária.
+2006.
+Dispon{\'\i}vel em:
+  \url{http://ltp.emnuvens.com.br/ltp/article/viewFile/69/66}. Acesso em: 22
+  out. 2014.}
+
+\bibitem[Sox 2014]{sox}
+\abntrefinfo{Sox}{SOX}{2014}
+{SOX. \emph{Sound eXchande}: Site. 2014.
+Dispon{\'\i}vel em: \url{http://www.sox.sourceforge.net}. Acesso em: 20 set.
+  2014.}
+
+\bibitem[Svítek 2006]{algoritmocompressao}
+\abntrefinfo{Svítek}{SVíTEK}{2006}
+{SVíTEK, J. Ogg vorbis: Subjective assessment of sound quality at very low bit
+  rates.
+Cesnet Archiv, 2006.
+Dispon{\'\i}vel em:
+  \url{http://archiv.cesnet.cz/doc/techzpravy/2006/vorbis/\#Vor00}. Acesso em:
+  12 nov. 2014.}
+
+\bibitem[Tanenbaum 2007]{tanenbaumorganizacao}
+\abntrefinfo{Tanenbaum}{TANENBAUM}{2007}
+{TANENBAUM, A.~S. \emph{Organiza{\c c}ão Estruturada de Computadores}. 5
+  edi{\c c}ão. ed. [S.l.]: Pearson Prentice Hall, 2007.}
+
+\bibitem[Teixeira 2006]{teixeira}
+\abntrefinfo{Teixeira}{TEIXEIRA}{2006}
+{TEIXEIRA, J. Leitura de ouvido.
+Veja, p. 135, n. 35, ano 39, 2006.}
+
+\bibitem[Tenenbaum et al. 2004]{tenenbaumdados}
+\abntrefinfo{Tenenbaum et al.}{TENENBAUM et al.}{2004}
+{TENENBAUM, A.~M. et al. \emph{Estrutura de dados usando C}. [S.l.]: Pearson
+  Makron Books, 2004.}
+
+\bibitem[tocalivros 2014]{tocalivros}
+\abntrefinfo{tocalivros}{TOCALIVROS}{2014}
+{TOCALIVROS: Site. 2014.
+Dispon{\'\i}vel em: \url{http://www.tocalivros.com}. Acesso em: 11 nov. 2014.}
+
+\bibitem[Victor 2014]{phonearena}
+\abntrefinfo{Victor}{VICTOR}{2014}
+{VICTOR. \emph{Phone Arena}: Site. 2014.
+Dispon{\'\i}vel em:
+  \url{http://www.phonearena.com/news/Moores-Law-is-coming-to-an-end\_id54127}.
+  Acesso em: 24 set. 2014.}
+
+\bibitem[Waggener 1994]{pcm}
+\abntrefinfo{Waggener}{WAGGENER}{1994}
+{WAGGENER, B. \emph{Pulse Code Modulation Techniques}. [S.l.]: Springer, 1994.}
+
+\bibitem[Xiph.org 1994]{licenseterms}
+\abntrefinfo{Xiph.org}{XIPH.ORG}{1994}
+{XIPH.ORG. \emph{Vorbis Audio Compression}: Site. 1994.
+Dispon{\'\i}vel em: \url{http://www.xiph.org/licenses/bsd/}. Acesso em: 15 nov.
+  2014.}
+
+\bibitem[Xiph.org 2000]{license}
+\abntrefinfo{Xiph.org}{XIPH.ORG}{2000}
+{XIPH.ORG. \emph{Vorbis Audio Compression}: Site. 2000.
+Dispon{\'\i}vel em: \url{http://www.xiph.org/vorbis/}. Acesso em: 15 nov.
+  2014.}
+
+\bibitem[Xiph.org 2012]{vorbis}
+\abntrefinfo{Xiph.org}{XIPH.ORG}{2012}
+{XIPH.ORG. \emph{Vorbis I specification}: Site. 2012.
+Dispon{\'\i}vel em: \url{http://wiki.xiph.org/vorbis/doc/Vorbis\_I\_spec.html}.
+  Acesso em: 03 nov. 2014.}
+
+\end{thebibliography}

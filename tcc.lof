@@ -1,0 +1,18 @@
+\select@language {brazil}
+\contentsline {figure}{\numberline {1}{\ignorespaces Captura de tela tirada \IeC {\`a}s 23:24:04 do dia 11/11/14 \cite {tocalivros}}}{25}{figure.3.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces Diagrama Geral do formato WAVE.}}{27}{figure.3.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces Diagrama Geral do formato AIFF.}}{28}{figure.3.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces Diagrama Geral representando um \textit {frame} do formato MP3.}}{29}{figure.3.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces Lei de Moore em a\IeC {\c c}\IeC {\~a}o para microprocessadores Intel \cite {phonearena}}}{32}{figure.3.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Diagrama exemplificando as multiplexagens \cite {ogg}}}{36}{figure.3.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Diagrama exemplifica a forma como s\IeC {\~a}o postos os segmentos \cite {ogg}}}{37}{figure.3.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces Formato de cabe\IeC {\c c}alho de uma p\IeC {\'a}gina \cite {ogg}}}{38}{figure.3.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces Diagrama do algoritmo de compress\IeC {\~a}o da Vorbis I \cite {algoritmocompressao}.}}{40}{figure.3.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Diagrama Geral representando uma estrutura Vorbis.}}{41}{figure.3.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces Execu\IeC {\c c}\IeC {\~a}o da ferramenta hexdump.}}{47}{figure.5.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces Execu\IeC {\c c}\IeC {\~a}o da ferramenta oggz-dump.}}{48}{figure.5.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces Formato do pacote LGMK.}}{49}{figure.5.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces Estrutura Ogg Vorbis com o pacote LGMK inserido.}}{51}{figure.5.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces Utiliza\IeC {\c c}\IeC {\~a}o do oggz-dump no formato Ogg Vorbis - pacote de coment\IeC {\'a}rios.}}{54}{figure.6.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces Utiliza\IeC {\c c}\IeC {\~a}o do oggz-dump no formato Ogg Vorbis - pacote LGMK.}}{55}{figure.6.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces Gr\IeC {\'a}fico de \textit {gantt} referente ao cronograma.}}{57}{figure.7.17}

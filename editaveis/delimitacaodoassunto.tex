@@ -1,0 +1,9 @@
+\chapter[Delimitação do Assunto]{Delimitação do Assunto}\label{cap4}
+
+A cultura de audiolivros, como explanado anteriormente, tem ganhado força no Brasil. Os formatos de áudio, até hoje, não oferecem suporte para marcação de conteúdo. Assim como um livro possui um sumário para facilitar e nortear o acesso a informação contido no livro, em um áudiolivro isso se torna ainda mais necessário. \cite{herbert} inicou um trabalho visando uma melhor suporte para o uso de \textit{audiobooks}. A solução proposta por \cite{herbert} soluciona o problema e os resultados foram satisfatórios. O trabalho proposto fez uso do formato WAVE onde dois novos blocos de dados foram inseridos originando o formato RAB. Estes blocos contém informações a respeito do áudio armazenado e marcações de conteúdo. 
+
+No entanto, percebeu-se que o tamanho do arquivo RAB crescia de forma linear em função do tempo. Um arquivo RAB, em média, chega a possuir mais de 200 megabytes de tamanho. Isso ocorre porque o formato WAVE (sobre o qual o RAB foi derivado) não usa compressão de dados. Considerando toda a fundamentação teórica apresentada neste trabalho principalmente no que tange o rumo em que o avanço tecnológico tem tomado, a necessidade das pessoas em cada vez mais compartilhar dados em redes de transmissão e o desempenho das aplicações em processar estes dados, futuramente, o formato RAB poderá não ser útil por conta do tamanho dos seus 
+ficheiros de áudio.
+
+A solução para este problema seria ou fazer a compressão do formato RAB ou propor o uso de um novo formato, open source e que já faz o uso de compressão de dados. Partindo deste pressuposto e de toda a pesquisa realizada, o formato não proprietário Ogg Vorbis fornece um melhor suporte para a especificação de um formato de áudio não ocasionando o mesmo problema do formato RAB.
+
